@@ -17,6 +17,12 @@
             "nome": "Inteligencia Artifical",
             "descricao": "Outra Categoria Bacanudassa",
             "cor": "#cbd1ff"
+        },
+        {
+            "id": 4,            
+            "nome": "Node.js",
+            "descricao": "Outra Categoria Bacanudassa",
+            "cor": "#cbd1ff"
         }
     ]
 }
