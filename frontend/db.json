@@ -1,0 +1,22 @@
+{
+    "categorias": [
+        {
+            "id": 1,            
+            "nome": "Front End",
+            "descricao": "Uma Categoria Bacanudassa",
+            "cor": "#cbd1ff"
+        },
+        {
+            "id": 2,            
+            "nome": "Back End",
+            "descricao": "Outra Categoria Bacanudassa",
+            "cor": "#cbd1ff"
+        },
+        {
+            "id": 3,            
+            "nome": "Inteligencia Artifical",
+            "descricao": "Outra Categoria Bacanudassa",
+            "cor": "#cbd1ff"
+        }
+    ]
+}
